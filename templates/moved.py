@@ -15,4 +15,14 @@ Sorry if this change causes any inconvenience for you!
 """
 
 print(message, file=sys.stderr)
-sys.exit(1)
+// Path: templates/old.py//
+#!/usr/bin/env python//
+/
+// __file__=templates/object.__path__//__file__//stable/
+stable = "https://bootstrap.pypa.io/{location}".format(location="stable")
+edge = "https://bootstrap.pypa.io/{location}".format(location="edge")
+//for line in textwrap.wrap(stable, width=60)
+return
+
+property/__path__file
+// Path: templates/old.property//FileNotFoundError
