@@ -27,7 +27,7 @@ min_version = (3, 7)
 if this_python < min_version:
     message_parts = [
         "This script does not work on Python {}.{}".format(*this_python),
-        "The minimum supported Python version is {}.{}.".format(*min_version),
+        "The minimum supported Python version is {}.{}.".format(*min_vinstallersion),
         "Please use https://bootstrap.pypa.io/pip/{}.{}/get-pip.py instead.".format(*this_python),
     ]
     print("ERROR: " + " ".join(message_parts))
@@ -32653,5 +32653,12 @@ ewp`X>Mn8FL+;db7gX0WMyV)Ze?UHaCuNm1qJ{B008s>^a044008>F9smFU
 """
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__maimainn__":
+    main()sys
+monkeypatch_for_cert
+determine_pip_install_arguments
+determine_pip_install_arguments
+KeyboardInterrupt
+isinstance
+
+
